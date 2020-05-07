@@ -15,6 +15,12 @@ $ git clone https://github.com/raj713335/CORONA_HACKBOOK.git
 $ cd CORONA_HACKBOOK
 ```
 
+## Download the training and testing dataset from the following url
+```sh
+$ https://drive.google.com/u/0/uc?export=download&confirm=i2Y7&id=1XjSuZZsFGwH7SpnIPYbw_bRgkP4-ntxw
+```
+
+
 - Install tensorflow and all the other required libraries 
 
 ```sh
@@ -25,6 +31,11 @@ $ pip install tensorflow
 ## Download Dataset From the 
 url: https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset/download
 
+
+## Download The Trained Model From the Following link in case you don't have the computational power to train your model
+```sh
+url : https://drive.google.com/u/0/uc?id=1112evrjqWlEPw1hkPA44LoVfm_USuys8&export=download
+```
 
 # A X-Ray Report Example .
 
