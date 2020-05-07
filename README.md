@@ -31,7 +31,7 @@ url: https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset/download
 ![](gr1_lrg-a.jpg)
 
 
-create the test and train dataset , with subfolders of COVID19 and Normal Patients
+## Create the test and train folders , with subfolders of COVID19 and Normal Patients
 
 
 ## Run the coronovirus.py file to train a model and save it as coronovirus.py
