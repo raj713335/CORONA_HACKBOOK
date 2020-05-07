@@ -68,7 +68,7 @@ index=list(arry_predict[0]).index(max)
 print(max)
 print(index)
 
-print(arry_predict,"ddhd")
+print(arry_predict)
 
 if max==arry_predict[0][0]:
     print("PATIENT TESTED  POSITIVE FOR COVID19")
