@@ -15,9 +15,9 @@ $ git clone https://github.com/raj713335/CORONA_HACKBOOK.git
 $ cd CORONA_HACKBOOK
 ```
 
-## Download the training and testing dataset images from the following url
+## Download the training and testing dataset images from the following url and place it into the CORONA_HACKBOOK FOLDER
 
-$ https://drive.google.com/u/0/uc?export=download&confirm=i2Y7&id=1XjSuZZsFGwH7SpnIPYbw_bRgkP4-ntxw
+$ https://drive.google.com/u/0/uc?export=download&confirm=7AMh&id=1XjSuZZsFGwH7SpnIPYbw_bRgkP4-ntxw
 
 
 
@@ -43,7 +43,7 @@ from keras_preprocessing.image import ImageDataGenerator
 ## Run the coronovirus.py file to train a model and save it as coronovirus.py
 
 ```sh
-$ coronavirus YT.py
+$ python coronavirus.py
 ```
 
 ## Download The Trained Model From the Following link in case you don't have the computational power to train your model
