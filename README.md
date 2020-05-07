@@ -15,34 +15,29 @@ $ git clone https://github.com/raj713335/CORONA_HACKBOOK.git
 $ cd CORONA_HACKBOOK
 ```
 
-## Download the training and testing dataset from the following url
-```sh
+## Download the training and testing dataset images from the following url
+
 $ https://drive.google.com/u/0/uc?export=download&confirm=i2Y7&id=1XjSuZZsFGwH7SpnIPYbw_bRgkP4-ntxw
-```
 
 
-- Install tensorflow and all the other required libraries 
+
+## Install tensorflow and all the other required libraries 
 
 ```sh
-$ pip install tensorflow
+$ pip install tensorflow, keras 
+
+import tensorflow as tf
+import keras_preprocessing
+from keras_preprocessing import image
+from keras_preprocessing.image import ImageDataGenerator
 ```
 
 
-## Download Dataset From the 
-url: https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset/download
-
-
-## Download The Trained Model From the Following link in case you don't have the computational power to train your model
-```sh
-url : https://drive.google.com/u/0/uc?id=1112evrjqWlEPw1hkPA44LoVfm_USuys8&export=download
-```
 
 # A X-Ray Report Example .
 
 ![](gr1_lrg-a.jpg)
 
-
-## Create the test and train folders , with subfolders of COVID19 and Normal Patients
 
 
 ## Run the coronovirus.py file to train a model and save it as coronovirus.py
@@ -51,7 +46,12 @@ url : https://drive.google.com/u/0/uc?id=1112evrjqWlEPw1hkPA44LoVfm_USuys8&expor
 $ coronavirus YT.py
 ```
 
-## To load and run the model and test it against unknown data\images 
+## Download The Trained Model From the Following link in case you don't have the computational power to train your model
+
+$ url : https://drive.google.com/u/0/uc?id=1112evrjqWlEPw1hkPA44LoVfm_USuys8&export=download
+
+
+## To load and run the model and test it against unknown data\images place you test images in the OUTPUT Folder with 1.jpg/1.jpeg name with it.
 
 
 ```sh
