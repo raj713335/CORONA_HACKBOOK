@@ -34,7 +34,7 @@ from keras_preprocessing.image import ImageDataGenerator
 
 
 
-# A X-Ray Report Example .
+## A X-Ray Report Example .
 
 ![](gr1_lrg-a.jpg)
 
@@ -58,3 +58,4 @@ $ url : https://drive.google.com/u/0/uc?id=1112evrjqWlEPw1hkPA44LoVfm_USuys8&exp
 $ python coronovirus_validate.py
 ```
 
+## THANK YOU
