@@ -11,8 +11,8 @@ The Training History .
 ## Getting Started
 - Clone the repo and cd into the directory
 ```sh
-$ git clone https://github.com/raj713335/CORONA_HACKBOOK.git
-$ cd CORONA_HACKBOOK
+$ git clone https://github.com/raj713335/Samhar_COVID19.git
+$ cd Samhar_COVID19
 ```
 
 ## Download the training and testing dataset images from the following url and place it into the CORONA_HACKBOOK FOLDER
