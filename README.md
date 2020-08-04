@@ -46,7 +46,7 @@ from keras_preprocessing.image import ImageDataGenerator
 $ python coronavirus.py
 ```
 
-## Download The Trained Model From the Following link in case you don't have the computational power to train your model
+## Download The Trained Model From the Following link in case you don't have the computational power to train your model.
 
 $ url : https://drive.google.com/u/0/uc?id=1112evrjqWlEPw1hkPA44LoVfm_USuys8&export=download
 
