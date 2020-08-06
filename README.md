@@ -1,6 +1,6 @@
 # CORONA_HACKBOOK
 
-A Deep Learning Algorithm to predict if the chest x-ray scans are of  covid19 positive person or not.
+A Deep Learning Algorithm to predict if the chest x-ray scans are of  covid19 positive person or not .
 
 
 
